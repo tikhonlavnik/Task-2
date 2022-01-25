@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643122119 source:d:\cpp\filereader\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<istream>
+	<conio.h>
+	<stdlib.h>
+	<signal.h>
+
